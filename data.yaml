@@ -1,0 +1,19 @@
+# Store scraper information
+
+banner: |
+  ////////////////////////////////////////////////////////////////////////////////
+  //                                                                            //
+  //   Welcome to this simple Web Scrapper                                      //
+  //                                                                            //
+  //   How it works?                                                            //
+  //     1) Enter the URL you want to scrape                                    //
+  //     2) Enter what you are looking for                                      //
+  //                                                                            //
+  ////////////////////////////////////////////////////////////////////////////////
+
+  
+choices: |
+
+  Chose '1' to get all page's links.
+  Chose 'q' to quit.
+  
